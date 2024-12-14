@@ -1,0 +1,18 @@
+# Ignore all but minecolonies model path and domum ornamentum.
+
+/assets/minecolonies/*
+
+/assets/minecolonies/models/*
+!/assets/minecolonies/models/
+!/assets/minecolonies/models/block/
+!/assets/domum_ornamentum/models\block\barrel_dec/
+
+
+# But specifically ignore default folders inside excluded folders.
+/assets/minecolonies/models/block/default/
+/assets/minecolonies/models/block/rack/default/
+/assets/minecolonies/models/block/crops/
+
+# Ignoring modrinth folder for now.
+/modrinth/
+
