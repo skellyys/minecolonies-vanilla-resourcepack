@@ -9,7 +9,7 @@
 		"4": "block/dark_oak_planks",
 		"5": "block/blast_furnace_side",
 		"6": "block/calcite",
-		"particle": "block/spruce_planks"
+		"particle": "block/stripped_spruce_log_top"
 	},
 	"elements": [
 		{

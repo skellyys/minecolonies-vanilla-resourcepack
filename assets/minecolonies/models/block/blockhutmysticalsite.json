@@ -11,7 +11,7 @@
 		"6": "block/terracotta",
 		"7": "block/gold_block",
 		"8": "block/diamond_block",
-		"particle": "block/oak_planks"
+		"particle": "block/stripped_oak_log_top"
 	},
 	"elements": [
 		{

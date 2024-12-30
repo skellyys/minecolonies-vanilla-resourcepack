@@ -10,7 +10,7 @@
 		"9": "block/spruce_log_top",
 		"10": "block/brown_wool",
 		"11": "block/stripped_dark_oak_log",
-		"particle": "block/hay_block_top"
+		"particle": "block/spruce_planks"
 	},
 	"elements": [
 		{

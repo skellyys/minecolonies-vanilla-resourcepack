@@ -14,7 +14,7 @@
 		"9": "block/red_mushroom_block",
 		"10": "entity/enchanting_table_book",
 		"11": "block/cobblestone",
-		"particle": "block/redstone_block"
+		"particle": "block/stripped_spruce_log"
 	},
 	"elements": [
 		{
@@ -335,7 +335,7 @@
 			"name": "stick",
 			"from": [6, 22, 11],
 			"to": [13, 24, 13],
-			"rotation": {"angle": 0, "axis": "z", "origin": [6, 22, 12]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 22, 12]},
 			"faces": {
 				"north": {"uv": [0, 4, 7, 2], "texture": "#8"},
 				"east": {"uv": [0, 1, 2, 3], "texture": "#8"},
@@ -349,7 +349,7 @@
 			"name": "stone",
 			"from": [13, 22, 11],
 			"to": [15, 24, 13],
-			"rotation": {"angle": 0, "axis": "z", "origin": [6, 22, 12]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 22, 12]},
 			"faces": {
 				"north": {"uv": [3, 3, 5, 5], "texture": "#9"},
 				"east": {"uv": [3, 3, 5, 5], "texture": "#9"},
@@ -363,7 +363,7 @@
 			"name": "glow",
 			"from": [12.5, 22, 10.5],
 			"to": [12.5, 24.5, 13.5],
-			"rotation": {"angle": 0, "axis": "z", "origin": [6, 22, 12]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 22, 12]},
 			"faces": {
 				"east": {"uv": [0, 0, 1, 1], "texture": "#6"}
 			}
@@ -372,7 +372,7 @@
 			"name": "glow",
 			"from": [15.5, 22, 10.5],
 			"to": [15.5, 24.5, 13.5],
-			"rotation": {"angle": 0, "axis": "z", "origin": [6, 22, 12]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 22, 12]},
 			"faces": {
 				"west": {"uv": [0, 0, 1, 1], "texture": "#6"}
 			}
@@ -382,7 +382,7 @@
 			"from": [12.5, 22.01, 10.5],
 			"to": [15.5, 22.01, 13.5],
 			"light_emission": 15,
-			"rotation": {"angle": 0, "axis": "z", "origin": [6, 22.5, 12]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 22.5, 12]},
 			"faces": {
 				"up": {"uv": [0, 0, 1, 1], "texture": "#6"}
 			}
@@ -391,7 +391,7 @@
 			"name": "glow",
 			"from": [12.5, 22, 13.5],
 			"to": [15.5, 24.5, 13.5],
-			"rotation": {"angle": 0, "axis": "z", "origin": [6, 22, 12]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 22, 12]},
 			"faces": {
 				"north": {"uv": [0, 0, 1, 1], "texture": "#6"}
 			}
@@ -409,7 +409,7 @@
 			"name": "glow",
 			"from": [12.5, 24.5, 10.5],
 			"to": [15.5, 24.5, 13.5],
-			"rotation": {"angle": 0, "axis": "z", "origin": [6, 22, 12]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 22, 12]},
 			"faces": {
 				"down": {"uv": [0, 0, 1, 1], "texture": "#6"}
 			}

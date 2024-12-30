@@ -13,7 +13,7 @@
 		"11": "block/spruce_planks",
 		"12": "block/netherite_block",
 		"14": "block/dark_oak_planks",
-		"particle": "block/nether_portal"
+		"particle": "block/crimson_planks"
 	},
 	"elements": [
 		{
@@ -259,7 +259,7 @@
 			"name": "ear",
 			"from": [-1, 18, 11],
 			"to": [0, 21, 14],
-			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 8]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [12.75, 2.75, 13, 3.5], "texture": "#9"},
 				"south": {"uv": [13.25, 2.75, 13.5, 3.5], "texture": "#9"},

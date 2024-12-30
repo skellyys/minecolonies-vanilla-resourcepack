@@ -4,7 +4,7 @@
 	"textures": {
 		"2": "block/stone",
 		"3": "block/smooth_stone",
-		"particle": "block/cobblestone"
+		"particle": "block/smooth_stone"
 	},
 	"elements": [
 		{

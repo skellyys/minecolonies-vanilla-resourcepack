@@ -13,7 +13,7 @@
 		"14": "block/blast_furnace_front",
 		"15": "block/iron_block",
 		"16": "block/gray_wool",
-		"particle": "block/blast_furnace_front"
+		"particle": "block/stripped_dark_oak_log_top"
 	},
 	"elements": [
 		{

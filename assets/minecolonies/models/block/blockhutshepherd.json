@@ -12,7 +12,8 @@
 		"8": "block/brown_wool",
 		"9": "block/pink_wool",
 		"10": "block/blast_furnace_side",
-		"11": "block/mangrove_planks"
+		"11": "block/mangrove_planks",
+		"particle": "block/hay_block_top"
 	},
 	"elements": [
 		{

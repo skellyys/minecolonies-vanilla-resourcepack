@@ -6,7 +6,7 @@
 		"1": "block/blast_furnace_side",
 		"2": "block/spruce_planks",
 		"3": "block/iron_block",
-		"particle": "block/oak_planks"
+		"particle": "block/spruce_planks"
 	},
 	"elements": [
 		{

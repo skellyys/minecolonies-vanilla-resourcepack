@@ -6,7 +6,7 @@
 		"1": "block/stone",
 		"2": "block/mossy_cobblestone",
 		"4": "block/moss_block",
-		"particle": "block/smooth_stone"
+		"particle": "block/mossy_stone_bricks"
 	},
 	"elements": [
 		{

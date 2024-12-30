@@ -14,7 +14,7 @@
 		"10": "block/acacia_planks",
 		"11": "block/gravel",
 		"12": "block/glass",
-		"particle": "block/campfire_log_lit"
+		"particle": "block/cauldron_side"
 	},
 	"elements": [
 		{

@@ -10,7 +10,7 @@
 		"6": "block/honeycomb_block",
 		"7": "block/honey_block_bottom",
 		"8": "block/stripped_spruce_log_top",
-		"particle": "block/spruce_planks"
+		"particle": "block/beehive_side"
 	},
 	"elements": [
 		{

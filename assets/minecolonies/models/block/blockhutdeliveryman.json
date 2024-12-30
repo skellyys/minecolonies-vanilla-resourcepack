@@ -16,7 +16,7 @@
 		"11": "block/enchanting_table_bottom",
 		"12": "block/calcite",
 		"13": "entity/chest/normal",
-		"particle": "block/oak_log_top"
+		"particle": "block/oak_planks"
 	},
 	"elements": [
 		{
@@ -237,7 +237,7 @@
 			"name": "lid",
 			"from": [9, 6, 3],
 			"to": [13, 8, 7],
-			"rotation": {"angle": 0, "axis": "z", "origin": [9, 7.5, 7]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 7.5, 7]},
 			"faces": {
 				"north": {"uv": [4.5, 4, 3.5, 3.5], "rotation": 180, "texture": "#13"},
 				"east": {"uv": [7, 4, 6, 3.5], "rotation": 180, "texture": "#13"}
@@ -247,7 +247,7 @@
 			"name": "lid",
 			"from": [5, 6, 3],
 			"to": [9, 8, 7],
-			"rotation": {"angle": 0, "axis": "z", "origin": [9, 7.5, 7]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 7.5, 7]},
 			"faces": {
 				"north": {"uv": [7, 4, 6, 3.5], "rotation": 180, "texture": "#13"},
 				"west": {"uv": [4.5, 4, 3.5, 3.5], "rotation": 180, "texture": "#13"}
@@ -299,7 +299,7 @@
 			"name": "mid",
 			"from": [5, 5, 3],
 			"to": [13, 6, 11],
-			"rotation": {"angle": 0, "axis": "z", "origin": [9, 6.5, 7]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 6.5, 7]},
 			"faces": {
 				"north": {"uv": [5.5, 8.5, 3.5, 8.25], "rotation": 180, "texture": "#13"},
 				"east": {"uv": [3.5, 8.5, 5.5, 8.25], "rotation": 180, "texture": "#13"},

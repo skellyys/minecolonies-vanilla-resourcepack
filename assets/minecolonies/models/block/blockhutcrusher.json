@@ -9,7 +9,7 @@
 		"4": "block/smithing_table_top",
 		"5": "block/stripped_oak_log",
 		"7": "block/blast_furnace_side",
-		"particle": "block/campfire_log"
+		"particle": "block/hopper_outside"
 	},
 	"elements": [
 		{

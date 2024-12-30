@@ -11,7 +11,7 @@
 		"7": "block/diorite",
 		"8": "block/andesite",
 		"9": "item/diamond_pickaxe",
-		"particle": "block/barrel_top_open"
+		"particle": "block/barrel_side"
 	},
 	"elements": [
 		{
