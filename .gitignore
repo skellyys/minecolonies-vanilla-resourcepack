@@ -1,17 +1,28 @@
-# Ignore all but minecolonies model path and domum ornamentum.
+# Ignore all but minecolonies model and texture path and domum ornamentum.
 
-/assets/minecolonies/*
 
+/assets/minecolonies/blockstates/
+/assets/minecolonies/colony/
+/assets/minecolonies/gui/
+/assets/minecolonies/lang/
+/assets/minecolonies/particles/
+/assets/minecolonies/schematics/
+/assets/minecolonies/shaders/
+/assets/minecolonies/sounds/
+/assets/minecolonies/sounds.json
 /assets/minecolonies/models/*
 !/assets/minecolonies/models/
 !/assets/minecolonies/models/block/
+!/assets/minecolonies/textures/block/
 !/assets/domum_ornamentum/models\block\barrel_dec/
+
 
 
 # But specifically ignore default folders inside excluded folders.
 /assets/minecolonies/models/block/default/
 /assets/minecolonies/models/block/rack/default/
 /assets/minecolonies/models/block/crops/
+/assets/minecolonies/textures/default/
 
 # Ignoring release folder.
 /release/
