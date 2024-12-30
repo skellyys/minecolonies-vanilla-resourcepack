@@ -13,6 +13,6 @@
 /assets/minecolonies/models/block/rack/default/
 /assets/minecolonies/models/block/crops/
 
-# Ignoring modrinth folder for now.
-/modrinth/
+# Ignoring release folder.
+/release/
 
