@@ -7,7 +7,7 @@
 A resource pack made to make the MineColonies mod feel more vanilla.
 
 ### Installing
-Download latest release from the [releases tab on github](https://github.com/skellyys/minecolonies-vanilla-resourcepack/releases), or from the [Modrinth project page](https://modrinth.com/project/minecolonies-vanillafied).\
+Download latest release from the [releases tab on github](https://github.com/skellyys/minecolonies-vanilla-resourcepack/releases), [Modrinth project page](https://modrinth.com/project/minecolonies-vanillafied), or [Curseforge project page](https://www.curseforge.com/minecraft/texture-packs/minecolonies-vanillafied).\
 Drop the zip directly into your resourcepacks folder in your minecraft install.
 #### Gallery
 
