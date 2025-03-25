@@ -199,9 +199,9 @@
 		},
 		{
 			"name": "Bindings",
-			"from": [8, 14.02, 3],
-			"to": [9, 14.02, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11.5, 8]},
+			"from": [8, 14.04, 3],
+			"to": [9, 14.04, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11.52, 8]},
 			"faces": {
 				"up": {"uv": [16, 3, 7, 2], "rotation": 90, "texture": "#7"}
 			}
@@ -218,9 +218,9 @@
 		},
 		{
 			"name": "Bindings",
-			"from": [9, 14, 3],
-			"to": [9, 16, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11.5, 8]},
+			"from": [9, 14.04, 3],
+			"to": [9, 16.01, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11.54, 8]},
 			"faces": {
 				"east": {"uv": [7, 4, 16, 2], "texture": "#7"},
 				"west": {"uv": [10, 12, 1, 14], "texture": "#7"}
@@ -238,9 +238,9 @@
 		},
 		{
 			"name": "PurpleLeather",
-			"from": [3, 14.02, 3],
-			"to": [8, 14.02, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11.5, 8]},
+			"from": [3, 14.04, 3],
+			"to": [8, 14.04, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11.52, 8]},
 			"faces": {
 				"up": {"uv": [2, 9, 7, 0], "texture": "#6"}
 			}
