@@ -9,11 +9,12 @@
 		"4": "block/blast_furnace_side",
 		"5": "block/stripped_dark_oak_log",
 		"6": "block/anvil",
-		"7": "block/blue_ice",
+		"7": "minecolonies:block/liquid/liq1",
 		"8": "item/cod",
 		"9": "block/oak_planks",
 		"11": "block/red_wool",
 		"12": "block/white_wool",
+		"13": "block/blue_ice",
 		"particle": "block/stripped_spruce_log_top"
 	},
 	"elements": [
@@ -215,9 +216,9 @@
 		},
 		{
 			"name": "fish",
-			"from": [2, 20, 9],
-			"to": [4, 22, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [3, 21, 10]},
+			"from": [2, 19, 9],
+			"to": [4, 21, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 20, 10]},
 			"faces": {
 				"north": {"uv": [4, 11, 2, 13], "texture": "#8"},
 				"east": {"uv": [3, 12, 5, 14], "texture": "#8"},
@@ -288,9 +289,9 @@
 		},
 		{
 			"name": "water",
-			"from": [2, 20, 8],
-			"to": [7, 20, 13],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7, 9]},
+			"from": [2, 19, 8],
+			"to": [7, 19, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6, 9]},
 			"faces": {
 				"up": {"uv": [5, 6, 10, 11], "rotation": 180, "texture": "#7"}
 			}
@@ -656,6 +657,50 @@
 			"faces": {
 				"up": {"uv": [5, 5, 6, 6], "rotation": 270, "texture": "#6"}
 			}
+		},
+		{
+			"from": [3, 19, 8],
+			"to": [5, 20, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 19, 8]},
+			"faces": {
+				"east": {"uv": [3, 6, 4, 7], "texture": "#13"},
+				"south": {"uv": [2, 6, 4, 7], "texture": "#13"},
+				"west": {"uv": [2, 6, 3, 7], "texture": "#13"},
+				"up": {"uv": [2, 6, 4, 7], "texture": "#13"}
+			}
+		},
+		{
+			"from": [2, 19, 11],
+			"to": [3, 20, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 19, 13]},
+			"faces": {
+				"north": {"uv": [3, 6, 4, 7], "texture": "#13"},
+				"east": {"uv": [2, 6, 4, 7], "texture": "#13"},
+				"south": {"uv": [2, 6, 3, 7], "texture": "#13"},
+				"up": {"uv": [2, 6, 4, 7], "rotation": 270, "texture": "#13"}
+			}
+		},
+		{
+			"from": [6, 19, 11],
+			"to": [7, 20, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 19, 11]},
+			"faces": {
+				"north": {"uv": [2, 6, 3, 7], "texture": "#13"},
+				"south": {"uv": [3, 6, 4, 7], "texture": "#13"},
+				"west": {"uv": [2, 6, 4, 7], "texture": "#13"},
+				"up": {"uv": [2, 6, 4, 7], "rotation": 90, "texture": "#13"}
+			}
+		},
+		{
+			"from": [4, 19, 10],
+			"to": [6, 20, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 19, 10]},
+			"faces": {
+				"north": {"uv": [2, 6, 3, 8], "rotation": 270, "texture": "#13"},
+				"south": {"uv": [5, 6, 3, 7], "texture": "#13"},
+				"west": {"uv": [2, 8, 4, 9], "texture": "#13"},
+				"up": {"uv": [2, 6, 4, 8], "rotation": 90, "texture": "#13"}
+			}
 		}
 	],
 	"groups": [
@@ -720,6 +765,10 @@
 			"origin": [16, 23, 13],
 			"color": 0,
 			"children": [54, 55, 56]
-		}
+		},
+		57,
+		58,
+		59,
+		60
 	]
 }
