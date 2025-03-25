@@ -9,12 +9,12 @@
 		"4": "block/blast_furnace_side",
 		"5": "block/stripped_dark_oak_log",
 		"6": "block/anvil",
-		"7": "minecolonies:block/liquid/liq1",
+		"7": "block/blue_ice",
 		"8": "item/cod",
 		"9": "block/oak_planks",
 		"11": "block/red_wool",
 		"12": "block/white_wool",
-		"particle": "block/cartography_table_side3"
+		"particle": "block/stripped_spruce_log_top"
 	},
 	"elements": [
 		{
@@ -462,8 +462,8 @@
 		},
 		{
 			"name": "string",
-			"from": [17, 28, 11],
-			"to": [17, 32, 12],
+			"from": [17.01, 28, 11],
+			"to": [17.01, 32, 12],
 			"rotation": {"angle": 0, "axis": "y", "origin": [16, 29, 13]},
 			"faces": {
 				"east": {"uv": [5, 7, 9, 8], "rotation": 90, "texture": "#2"}
@@ -471,8 +471,8 @@
 		},
 		{
 			"name": "bobber",
-			"from": [15.999, 26.999, 11.999],
-			"to": [18.001, 28.001, 14.001],
+			"from": [15.99, 26.99, 11.99],
+			"to": [18.01, 28.01, 14.01],
 			"rotation": {"angle": 0, "axis": "y", "origin": [16, 27, 13]},
 			"faces": {
 				"north": {"uv": [8, 5, 7, 7], "rotation": 90, "texture": "#11"},
@@ -541,8 +541,8 @@
 		},
 		{
 			"name": "shaft",
-			"from": [16.01, 16, 4],
-			"to": [17.01, 32, 5],
+			"from": [16, 16, 4],
+			"to": [17, 32, 5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [16.5, 18.5, 8]},
 			"faces": {
 				"north": {"uv": [0, 4, 16, 5], "rotation": 270, "texture": "#9"},
@@ -576,8 +576,8 @@
 		},
 		{
 			"name": "bobber",
-			"from": [15.999, 28.999, 1.999],
-			"to": [18.001, 30.001, 4.001],
+			"from": [15.99, 28.99, 1.99],
+			"to": [18.01, 30.01, 4.01],
 			"rotation": {"angle": 0, "axis": "y", "origin": [16, 29, 3]},
 			"faces": {
 				"north": {"uv": [8, 5, 7, 7], "rotation": 90, "texture": "#11"},
