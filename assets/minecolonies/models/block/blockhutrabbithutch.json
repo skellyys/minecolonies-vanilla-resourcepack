@@ -7,7 +7,7 @@
 		"2": "block/blast_furnace_side",
 		"3": "block/carrots_stage3",
 		"4": "block/iron_block",
-		"5": "minecolonies:block/liquid/liq1",
+		"5": "minecolonies:blocks/liquid/liq1",
 		"6": "block/oak_planks",
 		"7": "block/hay_block_top",
 		"particle": "block/oak_planks"

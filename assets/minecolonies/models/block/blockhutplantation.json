@@ -10,7 +10,7 @@
 		"5": "block/sugar_cane",
 		"6": "block/bamboo_stalk",
 		"7": "block/terracotta",
-		"9": "minecolonies:block/liquid/liq1",
+		"9": "minecolonies:blocks/liquid/liq1",
 		"particle": "block/oak_log_top"
 	},
 	"elements": [
